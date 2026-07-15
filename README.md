@@ -29,7 +29,7 @@ Strong agreement between simulation and measurement confirmed near-perfect absor
 </p>
 3. **Fabrication** — Thermal transfer and chemical etching of copper-clad FR-4 to produce unit cell, 2×2, and 3×3 array samples.
 <p align="center">
-  <img src="Etched%20Cell.png" width="48%" alt="Front">
+  <img src="EtchedCell.png" width="48%" alt="Front">
 </p>
 4. **Experimental Validation** — Non-contact S₁₁ measurement using a copper ring antenna as RF source, captured with a Rigol RSA3030N spectrum/network analyser in VNA mode.
 <p align="center">
