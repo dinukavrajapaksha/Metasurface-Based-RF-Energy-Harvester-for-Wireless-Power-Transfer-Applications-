@@ -25,7 +25,7 @@ Strong agreement between simulation and measurement confirmed near-perfect absor
 
 1. **Design & Simulation** — Modified SRR unit cell modelled in Ansys HFSS; S₁₁, S₂₁, and surface current distributions analysed to characterise resonance and coupling behaviour.
 <p align="center">
-  <img src="erkmen4.jpg" width="48%" alt="Front">
+  <img src="erkmen4.png" width="48%" alt="Front">
 </p>
 3. **Fabrication** — Thermal transfer and chemical etching of copper-clad FR-4 to produce unit cell, 2×2, and 3×3 array samples.
 4. **Experimental Validation** — Non-contact S₁₁ measurement using a copper ring antenna as RF source, captured with a Rigol RSA3030N spectrum/network analyser in VNA mode.
